@@ -1,5 +1,9 @@
 # K-Nearest Neighbor
 
+## Objetivo
+
+Algoritmo K vizinhos mais próximos, com distância euclidiana, desenvolvido para a disciplina de Inteligência Artificial, utilizando o [DataSet Iris](https://archive.ics.uci.edu/ml/datasets/Iris) e o DataSet SpamBase (possui sua identificação no arquivo data/spambase.DOCUMENTATION). 
+
 ## Requistos
 
 Para rodar o código você precisará dos seguintes requisitos:  
